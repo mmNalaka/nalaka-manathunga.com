@@ -226,23 +226,6 @@ img {
   padding-top: 0;
   margin-bottom: 1.45rem;
 }
-h1,
-.h1 {
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
-  margin-bottom: 1rem;
-  color: inherit;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  text-rendering: optimizeLegibility;
-  font-size: 3.4rem;
-  line-height: 1.1;
-}
 h2 {
   margin-left: 0;
   margin-right: 0;
